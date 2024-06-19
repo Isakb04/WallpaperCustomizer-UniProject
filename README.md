@@ -16,13 +16,8 @@ The Wallpaper Customizer App is a Python application that allows users to place 
     git clone https://github.com/your-username/wallpaper-customizer-app.git
     ```
 2. Navigate to the project directory:
-    ```bash
-    cd wallpaper-customizer-app
-    ```
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
+    
+3. Run in prefered IDE
 
 ## Usage
 1. Run the application:
